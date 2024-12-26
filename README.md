@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 Working on a Master's in Computer Engineering at NC State, focusing on software and machine learning.<br>🌱 Currently diving into Computer Vision and Gen AI, expanding my back-end development skills.<br>👯 Looking to collaborate on projects that leverage AI to solve real-world problems.<br>🤔 Seeking advice on advanced machine learning techniques and cloud computing best practices.<br>💬 Happy to chat about Python, Java, machine learning algorithms, and tech innovations.<br>📫 Reach me at raajabhay.chitnis@gmail.com or connect with me on LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Passionate about using technology to enhance healthcare outcomes.
+# About Me
+
+I’m an AI Engineer with 1+ years of experience building smart solutions like chatbots 🤖, predictive models 📊, and IoT systems 🌐. I specialize in fine-tuning language models 🤖, creating conversational workflows 🗣️, and integrating RAG systems 📚 to improve efficiency. Passionate about using AI 🚀 and cloud technologies ☁️ to solve real-world problems and make an impact 💡.
+
+
+
 
 
 # 💻 Tech Stack:
